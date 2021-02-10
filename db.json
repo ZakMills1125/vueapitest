@@ -1,6 +1,6 @@
 {
    "events":[
-        //create data properties to show when event card is clicked
+        
          {
            "id": 1234567,
            "category": "animal shelter",
@@ -13,26 +13,27 @@
            "organiser": "Zak Mills"
           },
           {
-           id: 12345,
-           category: 'animal shelter',
-           title: 'Ostrich Adoption Day',
-           description: 'adopt an Ostrich in need',
-           location: 'London',
-           date: 'Feb 4th 2021',
-           time: '12:00', 
-           petsAllowed: true, 
-           organiser: 'Zak Mills'
-           },
-           {
-           id: 125,
-           category: 'animal shelter',
-           title: 'Child Adoption Day',
-           description: 'adopt a child in need',
-           location: 'London',
-           date: 'Feb 4th 2021',
-           time: '12:00', 
-           petsAllowed: true, 
-           organiser: 'Zak Mills'
-           },
+           "id": 1234567,
+           "category": "animal shelter",
+           "title": "Cat Adoption Day", 
+           "description": "adopt a cat in need",
+           "location": "London",
+           "date": "Feb 4th 2021",
+           "time": "12:00", 
+           "petsAllowed": true, 
+           "organiser": "Zak Mills"
+          },
+         {
+           "id": 1234567,
+           "category": "animal shelter",
+           "title": "Cat Adoption Day", 
+           "description": "adopt a cat in need",
+           "location": "London",
+           "date": "Feb 4th 2021",
+           "time": "12:00", 
+           "petsAllowed": true, 
+           "organiser": "Zak Mills"
+          },
+      
         ]
       } 
